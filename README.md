@@ -3,9 +3,9 @@
 
 **Стажировки и конкурсы:**
 
-[Конкурс Start-up СПбГУ](стартап.pdf)
+[Конкурс Start-up СПбГУ](стартап.pdf) [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html)
 
-[Образовательная программа Huawei «Seeds fo the future»](P1370734-min-конвертирован_compressed.pdf)
+[Образовательная программа Huawei «Seeds fo the future»](P1370734-min-конвертирован_compressed.pdf) [Описание программы](https://drive.google.com/file/d/1iLbiOxaqK6t7lTB9cedIIgFuxCl7XPl)
 
 [Стажировка в компании Ланит-терком](справка_о_стажировке.pdf)
 
