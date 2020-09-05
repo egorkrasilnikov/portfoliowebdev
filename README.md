@@ -18,3 +18,25 @@
 [Введение в машинное обучение](https://vk.cc/awV3nI)
 
 [С++](https://stepik.org/cert/42890)
+
+**Проекты на github**
+
+[Реализация туториала из трех частей на smart-contracts и javascript](https://github.com/buchacha/voting)
+
+[REST-API на django framework](https://github.com/buchacha/python-rest-api-more)
+
+[Сайт-клон ProductHunt](https://github.com/buchacha/producthunt-project)
+
+[Сайт визитка на Javascript и HTML](https://github.com/buchacha/portfolio-project)
+
+[Собственный проект на Python для геомаркетинга](https://github.com/buchacha/marketing_investigation)
+
+[Бот вк в контейнере Docker](https://github.com/buchacha/botvk-in-docker)
+
+[Приложение Android исторических квестов для Historymax.ru](https://github.com/buchacha/HistoryQuestsAndroid)
+
+[Приложение погоды с поиском по городу Android/java](https://github.com/buchacha/KritTest3)
+
+[Приложение Аудиогид для музея Набокова Android/java](https://github.com/buchacha/audiogid2-android)
+
+[Приложение Аудиогид для музея Набокова Ios/swift](https://github.com/buchacha/audiogid2)
