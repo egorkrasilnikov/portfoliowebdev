@@ -1,5 +1,5 @@
 # portfoliowebdev
-Все о моих достижениях и опыте, что добавит ценности на позиции backend, frontend, fullstack
+Все о моих достижениях и опыте на позиции backend, frontend, fullstack
 
 **Стажировки и конкурсы:**
 
