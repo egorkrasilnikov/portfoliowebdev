@@ -7,7 +7,7 @@
 [Стажировка в компании Ланит-терком](справка о стажировке.pdf)
 
 Сертификаты онлайн-курсов
-[Django Framework] (vk.cc/awV3zx)
+[Django Framework] (https://vk.cc/awV3zx)
 [HTML, CSS, BOOTSTRAP] (vk.cc/awV3Ej)
 [Введение в машинное обучение] (vk.cc/awV3nI)
 [С++] (stepik.org/cert/42890)
