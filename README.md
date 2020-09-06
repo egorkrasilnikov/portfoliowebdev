@@ -42,3 +42,6 @@
 [Приложение Аудиогид для музея Набокова Android/java](https://github.com/buchacha/audiogid2-android)
 
 [Приложение Аудиогид для музея Набокова Ios/swift](https://github.com/buchacha/audiogid2)
+
+[Разработка системы компьютерного зрения](https://github.com/Egor322129/3dReconstructionSFP)
+
