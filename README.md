@@ -23,7 +23,7 @@
 
 [Django Framework](https://vk.cc/awV3zx)
 
-[HTML, CSS, BOOTSTRAP](https://vk.cc/awV3Ej)
+[HTML, CSS, JS, BOOTSTRAP](https://vk.cc/awV3Ej)
 
 [Введение в машинное обучение](https://vk.cc/awV3nI)
 
