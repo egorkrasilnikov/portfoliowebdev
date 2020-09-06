@@ -27,9 +27,9 @@
 
 [REST-API на django framework](https://github.com/buchacha/python-rest-api-more)
 
-[Сайт-клон ProductHunt back+front](https://github.com/buchacha/producthunt-project)
+[Сайт-клон ProductHunt django framework+frontend](https://github.com/buchacha/producthunt-project)
 
-[Сайт визитка back+front](https://github.com/buchacha/portfolio-project)
+[Сайт визитка django framework+frontend](https://github.com/buchacha/portfolio-project)
 
 [Собственный проект на Python для геомаркетинга](https://github.com/buchacha/marketing_investigation)
 
