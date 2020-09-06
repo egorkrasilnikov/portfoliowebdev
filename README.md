@@ -29,6 +29,8 @@
 
 [С++](https://stepik.org/cert/42890)
 
+[Финансовые рынки и институты](https://www.coursera.org/account/accomplishments/verify/XACR7EF84HAG)
+
 **Проекты на github**
 
 **2020** [Выпускная работа python, opencv, sklearn](https://github.com/buchacha/severstal_steel_nedopal_classification)
