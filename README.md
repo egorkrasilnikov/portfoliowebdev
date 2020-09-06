@@ -1,15 +1,23 @@
 # portfoliowebdev
 Все о моих достижениях и опыте на позиции backend, frontend, fullstack
 
+**Образование:**
+
+Санкт-Петербургский государственный университет,
+Экономический, Математические методы в экономике – **2022**
+
+Санкт-Петербургский государственный университет, Санкт-Петербург
+Прикладной математики процессов управления, Прикладная математика и информатика – **2020**
+
 **Стажировки и конкурсы:**
 
-[Конкурс Start-up СПбГУ](стартап.pdf) — [Проект на github](https://github.com/buchacha/HistoryQuestsAndroid) — [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html)
+**2019: ** [Конкурс Start-up СПбГУ](стартап.pdf) — [Проект на github](https://github.com/buchacha/HistoryQuestsAndroid) — [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html)
 
-[Образовательная программа Huawei «Seeds fo the future»](P1370734-min-конвертирован_compressed.pdf) —— [Описание программы](https://drive.google.com/file/d/1iLbiOxaqK6t7lTB9cedIIgFuxCl7XPl)
+**2019: ** [Образовательная программа Huawei «Seeds fo the future»](P1370734-min-конвертирован_compressed.pdf) —— [Описание программы](https://drive.google.com/file/d/1iLbiOxaqK6t7lTB9cedIIgFuxCl7XPl)
 
 <img src="https://github.com/egorkrasilnikov/portfoliowebdev/blob/master/mugpLbmhvDE.jpg" width="400" />
 
-[Стажировка в компании Ланит-терком](справка_о_стажировке.pdf) —— [Код и описание проекта на github](https://github.com/Egor322129/3dReconstructionSFP)
+**2017: ** [Стажировка в компании Ланит-терком](справка_о_стажировке.pdf) —— [Код и описание проекта на github](https://github.com/Egor322129/3dReconstructionSFP)
 
 **Сертификаты онлайн-курсов:**
 
