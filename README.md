@@ -45,3 +45,5 @@
 
 [Разработка системы компьютерного зрения](https://github.com/Egor322129/3dReconstructionSFP)
 
+[Выпускная квалификационная работа машинное обучение, компьютерное зрение, python, opencv, sklearn](https://github.com/buchacha/severstal_steel_nedopal_classification/blob/master/README.md)
+
