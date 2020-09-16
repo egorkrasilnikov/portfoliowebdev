@@ -114,6 +114,14 @@
 
 [ICCSA 2019 с решением «Robot-Finder»](https://drive.google.com/file/d/1zjthC-O4U_FMeFG8dEHShI0UBvfo6Aup)
 
+**Общественно-значимые и некоммерческие проекты**
+
+**`2020`**
+
+Ответственный за проведение опроса в СПбГУ с более 1700 респондентами по теме «Дистанционное обучение в СПбГУ в период коронавируса» – [Результат работы](https://drive.google.com/file/d/1iy8KKNB4KCxB8pyzSQeZkM5_nSFL8_y-)
+
+Руководитель проекта «Лаборатория цифровой трансформации образования» для участия в конкурсе грантов Росмолодежь – [Результат работы](https://drive.google.com/file/d/1kRaWGakBw8e-9-NeIJTQZkC6FvUznl7h)
+
 **Другое**
 
 [Промо ролик «Robot-Finder»](https://www.youtube.com/watch?v=fmUQ2C5v958)
