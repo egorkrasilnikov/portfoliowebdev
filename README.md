@@ -42,7 +42,7 @@
 
 `2020`
 
-[Выпускная работа в области искусственного интеллекта в промышленности (стек: python, opencv, sklearn)](https://github.com/buchacha/severstal_steel_nedopal_classification)
+[ВКР по теме искусственного интеллекта в промышленности (```python, ml```](https://github.com/buchacha/severstal_steel_nedopal_classification)
 
 [Автоматизации геомаркетинга в больших городах](https://github.com/buchacha/marketing_investigation)
 
