@@ -106,16 +106,16 @@
 
 **`2020`**
 
-[Защита выпускной квалификационной работы «Видеоконтроль технологического процесса на производстве стали»](https://drive.google.com/file/d/1D04tXFQZR4A1VRJpCUmbsabof4bsFpTi)
+[ВКР «Видеоконтроль технологического процесса на производстве стали»](https://drive.google.com/file/d/1D04tXFQZR4A1VRJpCUmbsabof4bsFpTi)
 
 **`2019`**
 
-[Выступление в финале конкурса Start-Up СПбГУ 2019](https://drive.google.com/file/d/1YAwgY-Z7ipsf70aGbV6pBL772CPVFTLn)
+[Финал конкурса Start-Up СПбГУ 2019](https://drive.google.com/file/d/1YAwgY-Z7ipsf70aGbV6pBL772CPVFTLn)
 
-[Выступление на международной конференции ICCSA 2019 с решением «Robot-Finder»(https://drive.google.com/file/d/1zjthC-O4U_FMeFG8dEHShI0UBvfo6Aup)
+[ICCSA 2019 с решением «Robot-Finder»](https://drive.google.com/file/d/1zjthC-O4U_FMeFG8dEHShI0UBvfo6Aup)
 
 **Другое**
 
-[Промо ролик Robot-Finder](https://www.youtube.com/watch?v=fmUQ2C5v958)
+[Промо ролик «Robot-Finder»](https://www.youtube.com/watch?v=fmUQ2C5v958)
 
 [Промо-ролик конкурса Start-Up СПбГУ](https://vk.com/video-65722163_456239059)
