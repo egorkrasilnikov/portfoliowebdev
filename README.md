@@ -18,13 +18,15 @@
 
 [Конкурс Start-up СПбГУ](стартап.pdf) — [Проект на github](https://github.com/buchacha/HistoryQuestsAndroid) — [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html)
 
+<img src="https://github.com/egorkrasilnikov/portfoliowebdev/blob/master/qUbf6LylSlk.jpg" width="400" />
+
 [Образовательная программа Huawei «Seeds fo the future»](P1370734-min-конвертирован_compressed.pdf) —— [Описание программы](https://drive.google.com/file/d/1iLbiOxaqK6t7lTB9cedIIgFuxCl7XPl)
 
 <img src="https://github.com/egorkrasilnikov/portfoliowebdev/blob/master/mugpLbmhvDE.jpg" width="400" />
 
 **`2017`**
 
-[Стажировка в компании Ланит-терком](справка_о_стажировке.pdf) —— [Код и описание проекта на github](https://github.com/Egor322129/3dReconstructionSFP)
+[Стажировка в компании Ланит-терком](справка_о_стажировке.pdf) —— [Описание проекта на github](https://github.com/Egor322129/3dReconstructionSFP)
 
 **Сертификаты онлайн-курсов:**
 
