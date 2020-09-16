@@ -69,7 +69,10 @@
 
 [Разработка системы компьютерного зрения](https://github.com/Egor322129/3dReconstructionSFP)
 
-**Статьи**
+**Статьи и публикации**
+
+[«Видеоконтроль `технологического процесса` на производстве стали»](https://github.com/Egor322129/3dReconstructionSFP)
+https://drive.google.com/file/d/1EkQkQ2At9ohEUWJLSY98s3d62uUIYqZq
 
 **Презентации**
 
