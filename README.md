@@ -16,7 +16,7 @@
 
 **`2019`**
 
-[Конкурс Start-up СПбГУ](стартап.pdf) — [Проект на github](https://github.com/buchacha/HistoryQuestsAndroid) — [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html) – [Промо-ролик проекта](https://vk.com/video-65722163_456239059)
+[Конкурс Start-up СПбГУ](стартап.pdf) — [Проект на github](https://github.com/buchacha/HistoryQuestsAndroid) — [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html)
 
 <img src="https://github.com/egorkrasilnikov/portfoliowebdev/blob/master/qUbf6LylSlk.jpg" width="400" />
 
@@ -112,6 +112,10 @@
 
 [Выступление в финале конкурса Start-Up СПбГУ 2019](https://drive.google.com/file/d/1YAwgY-Z7ipsf70aGbV6pBL772CPVFTLn)
 
-[Выступление](https://drive.google.com/file/d/1zjthC-O4U_FMeFG8dEHShI0UBvfo6Aup) на международной конференции ICCSA 2019 с [решением «Robot-Finder»](https://www.youtube.com/watch?v=fmUQ2C5v958)
+[Выступление на международной конференции ICCSA 2019 с решением «Robot-Finder»(https://drive.google.com/file/d/1zjthC-O4U_FMeFG8dEHShI0UBvfo6Aup)
 
+**Другое**
 
+[Промо ролик Robot-Finder](https://www.youtube.com/watch?v=fmUQ2C5v958)
+
+[Промо-ролик конкурса Start-Up СПбГУ](https://vk.com/video-65722163_456239059)
