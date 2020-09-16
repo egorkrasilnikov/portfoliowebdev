@@ -16,7 +16,7 @@
 
 **`2019`**
 
-[Конкурс Start-up СПбГУ](стартап.pdf) — [Проект на github](https://github.com/buchacha/HistoryQuestsAndroid) — [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html)
+[Конкурс Start-up СПбГУ](стартап.pdf) — [Проект на github](https://github.com/buchacha/HistoryQuestsAndroid) — [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html) – [Промо-ролик проекта](https://vk.com/video-65722163_456239059)
 
 <img src="https://github.com/egorkrasilnikov/portfoliowebdev/blob/master/qUbf6LylSlk.jpg" width="400" />
 
