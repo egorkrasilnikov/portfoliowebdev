@@ -43,39 +43,39 @@
 **`2020`**
 
 [Программная реализация решения ВКР по теме искусственного интеллекта в промышленности](https://github.com/buchacha/severstal_steel_nedopal_classification)
-`python``scikit``pandas``numpy``opencv`
+`python` `scikit` `pandas` `numpy` `opencv`
 
 [Автоматизации геомаркетинга в больших городах](https://github.com/buchacha/marketing_investigation)
-`python``Google API`
+`python` `Google API`
 
 [Реализация туториала из трех частей на ethereum smart-contracts](https://github.com/buchacha/voting)
-`javascript, html, css``Ethereum`
+`javascript, html, css` `Ethereum`
 
 [REST-API](https://github.com/buchacha/python-rest-api-more)
-`python``djangorestframework``html, css, javascript`
+`python` `djangorestframework` `html, css, javascript`
 
 [Сайт-клон ProductHunt](https://github.com/buchacha/producthunt-project)
-`python``django``html, css, javascript`
+`python` `django` `html, css, javascript`
 
 [Сайт визитка django](https://github.com/buchacha/portfolio-project)
-`python``django``html, css, javascript`
+`python` `django` `html, css, javascript`
 
 [Приложение погоды с поиском по городу](https://github.com/buchacha/KritTest3)
-`java``Android SDK``XML`
+`java` `Android SDK` `XML`
 
 **`2019`** 
 
 [Бот вк в контейнере Docker](https://github.com/buchacha/botvk-in-docker)
-`python``docker`
+`python` `docker`
 
 [Приложение исторических квестов для Historymax.ru](https://github.com/buchacha/HistoryQuestsAndroid)
-`java``Android SDK``XML`
+`java` `Android SDK` `XML`
 
 [Приложение Аудиогид для музея Набокова](https://github.com/buchacha/audiogid2-android)
-`java``Android SDK``XML`
+`java` `Android SDK` `XML`
 
 [Приложение Аудиогид для музея Набокова](https://github.com/buchacha/audiogid2)
-`swift``xCode`
+`swift` `xCode`
 
 **`2018`**
 
