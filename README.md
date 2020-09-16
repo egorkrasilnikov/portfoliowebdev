@@ -100,7 +100,7 @@
 
 **`2019`**
 
-[Публикация рецензируемая Scopus «The Architecture of the Robot-Finder Based on SLAM and Neural Network»](https://drive.google.com/file/d/1Ko07lWsb1RexiwpYZYr9lZAQK5BUTy4b)
+[«The Architecture of the Robot-Finder Based on SLAM and Neural Network»](https://drive.google.com/file/d/1Ko07lWsb1RexiwpYZYr9lZAQK5BUTy4b)(рец. Scopus)
 
 **Презентации**
 
@@ -112,6 +112,6 @@
 
 [Выступление в финале конкурса Start-Up СПбГУ 2019](https://drive.google.com/file/d/1YAwgY-Z7ipsf70aGbV6pBL772CPVFTLn)
 
-[Выступление на международной конференции ICCSA 2019 с решением «Robot-Finder»](https://drive.google.com/file/d/1zjthC-O4U_FMeFG8dEHShI0UBvfo6Aup)
+[Выступление](https://drive.google.com/file/d/1zjthC-O4U_FMeFG8dEHShI0UBvfo6Aup) на международной конференции ICCSA 2019 с [решением «Robot-Finder»](https://www.youtube.com/watch?v=fmUQ2C5v958)
 
 
