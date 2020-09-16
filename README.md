@@ -8,13 +8,13 @@
 Санкт-Петербургский государственный университет (СПбГУ),
 Экономический, Математические методы в экономике
 
-`2016 – 2020`
+**`2016 – 2020`**
 Санкт-Петербургский государственный университет (СПбГУ), 
 Прикладной математики процессов управления, Прикладная математика и информатика
 
 **Стажировки и конкурсы:**
 
-`2019`
+**`2019`**
 
 [Конкурс Start-up СПбГУ](стартап.pdf) — [Проект на github](https://github.com/buchacha/HistoryQuestsAndroid) — [Описание конкурса](https://fund.spbu.ru/Startup_spbgu_2020.html)
 
@@ -22,7 +22,7 @@
 
 <img src="https://github.com/egorkrasilnikov/portfoliowebdev/blob/master/mugpLbmhvDE.jpg" width="400" />
 
-`2017`
+**`2017`**
 
 [Стажировка в компании Ланит-терком](справка_о_стажировке.pdf) —— [Код и описание проекта на github](https://github.com/Egor322129/3dReconstructionSFP)
 
@@ -40,39 +40,51 @@
 
 **Проекты на github**
 
-`2020`
+**`2020`**
 
-[ВКР по теме искусственного интеллекта в промышленности (```python, ml```](https://github.com/buchacha/severstal_steel_nedopal_classification)
+[Программная реализация решения ВКР по теме искусственного интеллекта в промышленности](https://github.com/buchacha/severstal_steel_nedopal_classification)
+`python``scikit``pandas``numpy``opencv`
 
 [Автоматизации геомаркетинга в больших городах](https://github.com/buchacha/marketing_investigation)
+`python``Google API`
 
-[Реализация туториала из трех частей на ethereum smart-contracts и javascript](https://github.com/buchacha/voting)
+[Реализация туториала из трех частей на ethereum smart-contracts](https://github.com/buchacha/voting)
+`javascript, html, css``Ethereum`
 
-[REST-API на django framework](https://github.com/buchacha/python-rest-api-more)
+[REST-API](https://github.com/buchacha/python-rest-api-more)
+`python``djangorestframework``html, css, javascript`
 
-[Сайт-клон ProductHunt django framework+frontend](https://github.com/buchacha/producthunt-project)
+[Сайт-клон ProductHunt](https://github.com/buchacha/producthunt-project)
+`python``django``html, css, javascript`
 
-[Сайт визитка django framework+frontend](https://github.com/buchacha/portfolio-project)
+[Сайт визитка django](https://github.com/buchacha/portfolio-project)
+`python``django``html, css, javascript`
 
-[Приложение погоды с поиском по городу Android/java](https://github.com/buchacha/KritTest3)
+[Приложение погоды с поиском по городу](https://github.com/buchacha/KritTest3)
+`java``Android SDK``XML`
 
-`2019` 
+**`2019`** 
 
 [Бот вк в контейнере Docker](https://github.com/buchacha/botvk-in-docker)
+`python``docker`
 
-[Приложение исторических квестов для Historymax.ru Android](https://github.com/buchacha/HistoryQuestsAndroid)
+[Приложение исторических квестов для Historymax.ru](https://github.com/buchacha/HistoryQuestsAndroid)
+`java``Android SDK``XML`
 
-[Приложение Аудиогид для музея Набокова Android/java](https://github.com/buchacha/audiogid2-android)
+[Приложение Аудиогид для музея Набокова](https://github.com/buchacha/audiogid2-android)
+`java``Android SDK``XML`
 
-[Приложение Аудиогид для музея Набокова Ios/swift](https://github.com/buchacha/audiogid2)
+[Приложение Аудиогид для музея Набокова](https://github.com/buchacha/audiogid2)
+`swift``xCode`
 
-`2018`
+**`2018`**
 
 [Разработка системы компьютерного зрения](https://github.com/Egor322129/3dReconstructionSFP)
+`matlab`
 
 **Статьи и публикации**
 
-`2020`
+**`2020`**
 
 [ВКР «Видеоконтроль качества предварительной подготовки сырья для производства стали»](https://drive.google.com/file/d/1EkQkQ2At9ohEUWJLSY98s3d62uUIYqZq)
 
@@ -84,17 +96,17 @@
 
 [Эссе «Математические модели риска»](https://drive.google.com/file/d/1PHuEsEzaYgMgdyMMsmtA207sd3HrdkYi)
 
-`2019`
+**`2019`**
 
 [Публикация рецензируемая Scopus «The Architecture of the Robot-Finder Based on SLAM and Neural Network»](https://drive.google.com/file/d/1Ko07lWsb1RexiwpYZYr9lZAQK5BUTy4b)
 
 **Презентации**
 
-`2020`
+**`2020`**
 
 [Защита выпускной квалификационной работы «Видеоконтроль технологического процесса на производстве стали»](https://drive.google.com/file/d/1D04tXFQZR4A1VRJpCUmbsabof4bsFpTi)
 
-`2019`
+**`2019`**
 
 [Выступление в финале конкурса Start-Up СПбГУ 2019](https://drive.google.com/file/d/1YAwgY-Z7ipsf70aGbV6pBL772CPVFTLn)
 
