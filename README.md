@@ -33,29 +33,48 @@
 
 **Проекты на github**
 
-**2020** [Выпускная работа python, opencv, sklearn](https://github.com/buchacha/severstal_steel_nedopal_classification)
+**2020**
 
-**2020** [Собственный проект на Python для геомаркетинга](https://github.com/buchacha/marketing_investigation)
+[Выпускная работа в области искусственного интеллекта в промышленности (стек: python, opencv, sklearn)](https://github.com/buchacha/severstal_steel_nedopal_classification)
 
-**2020** [Реализация туториала из трех частей на ethereum smart-contracts и javascript](https://github.com/buchacha/voting)
+[Автоматизации геомаркетинга в больших городах](https://github.com/buchacha/marketing_investigation)
 
-**2020** [REST-API на django framework](https://github.com/buchacha/python-rest-api-more)
+[Реализация туториала из трех частей на ethereum smart-contracts и javascript](https://github.com/buchacha/voting)
 
-**2020** [Сайт-клон ProductHunt django framework+frontend](https://github.com/buchacha/producthunt-project)
+[REST-API на django framework](https://github.com/buchacha/python-rest-api-more)
 
-**2020** [Сайт визитка django framework+frontend](https://github.com/buchacha/portfolio-project)
+[Сайт-клон ProductHunt django framework+frontend](https://github.com/buchacha/producthunt-project)
 
-**2020** [Приложение погоды с поиском по городу Android/java](https://github.com/buchacha/KritTest3)
+[Сайт визитка django framework+frontend](https://github.com/buchacha/portfolio-project)
 
-**2019** [Бот вк в контейнере Docker](https://github.com/buchacha/botvk-in-docker)
+[Приложение погоды с поиском по городу Android/java](https://github.com/buchacha/KritTest3)
 
-**2019** [Приложение исторических квестов для Historymax.ru Android](https://github.com/buchacha/HistoryQuestsAndroid)
+**2019** 
 
-**2019** [Приложение Аудиогид для музея Набокова Android/java](https://github.com/buchacha/audiogid2-android)
+[Бот вк в контейнере Docker](https://github.com/buchacha/botvk-in-docker)
 
-**2019** [Приложение Аудиогид для музея Набокова Ios/swift](https://github.com/buchacha/audiogid2)
+[Приложение исторических квестов для Historymax.ru Android](https://github.com/buchacha/HistoryQuestsAndroid)
 
-**2018** [Разработка системы компьютерного зрения](https://github.com/Egor322129/3dReconstructionSFP)
+[Приложение Аудиогид для музея Набокова Android/java](https://github.com/buchacha/audiogid2-android)
 
+[Приложение Аудиогид для музея Набокова Ios/swift](https://github.com/buchacha/audiogid2)
+
+**2018** 
+
+[Разработка системы компьютерного зрения](https://github.com/Egor322129/3dReconstructionSFP)
+
+**Статьи**
+
+***Презентации***
+
+**2020** 
+
+[Защита выпускной квалификационной работы «Видеоконтроль технологического процесса на производстве стали»](https://drive.google.com/file/d/1D04tXFQZR4A1VRJpCUmbsabof4bsFpTi)
+
+**2019** 
+
+[Выступление в финале конкурса Start-Up СПбГУ 2019](https://drive.google.com/file/d/1YAwgY-Z7ipsf70aGbV6pBL772CPVFTLn)
+
+[Выступление на международной конференции ICCSA 2019 с решением «Robot-Finder»](https://drive.google.com/file/d/1zjthC-O4U_FMeFG8dEHShI0UBvfo6Aup)
 
 
