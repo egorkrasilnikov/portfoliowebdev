@@ -25,7 +25,7 @@
 
 <img src="https://github.com/egorkrasilnikov/portfoliowebdev/blob/master/qUbf6LylSlk.jpg" width="400" />
 
-[Образовательная программа Huawei «Seeds fo the future»](P1370734-min-конвертирован_compressed.pdf) —— [Описание программы](https://drive.google.com/file/d/1iLbiOxaqK6t7lTB9cedIIgFuxCl7XPl)
+[Образовательная программа Huawei «Seeds fo the future»](P1370734-min-конвертирован_compressed.pdf) —— [Описание программы](https://drive.google.com/file/d/1iLbiOxaqK6t7lTB9cedIIgFuxCl7XPl_)
 
 <img src="https://github.com/egorkrasilnikov/portfoliowebdev/blob/master/mugpLbmhvDE.jpg" width="400" />
 
